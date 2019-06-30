@@ -1,2 +1,0 @@
-# MasterThesis
-Ocean_simulation
