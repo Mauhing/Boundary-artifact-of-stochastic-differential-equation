@@ -139,6 +139,6 @@ def RunSimulation(NumberOfThread, Tmax, dt, H, Testdepth, Np, Nbins, scheme):
     return hist_, hist_Cross, hist_Land
 ```
 
-This will be the engine to power the most WMC test in my master thesis. However, the reader may found that I have small modification for each file. It is ecentially just make it even faster, or let it to adapt to the mirrored domain. 
-
+This will be the engine to power the most WMC test in my master thesis. However, the reader may found that I have small modification for each file. It is ecentially just make it even faster, or let it to adapt to the mirrored domain.  
+Thank you
 
