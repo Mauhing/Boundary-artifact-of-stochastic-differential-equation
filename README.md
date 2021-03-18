@@ -1,6 +1,8 @@
 # Boundary artifact of stochastic differential equation
 Analysis of boundary artifact of stochastic differential equation caused by reflection scheme.
 
+This repo will generate the figure in my master thesis: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2625252
+
 This repository contain all the code for generate all the result in my master thesis. Most of the code is resulted to well mixed condition test. It is paralle computation code. This may be difficult to undstand the code at the beginning. Let us start with something simple.
 
 ```python
